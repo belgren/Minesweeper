@@ -1,0 +1,55 @@
+.cell {
+    display: inline-block;
+    height: 30px;
+    width: 30px;
+    border: solid 1px white;
+    cursor: pointer;
+    text-align: center;
+    justify-content: center;
+    background-color: #bfbfbf;
+    color: black;
+    text-shadow: 1px 1px grey;
+    box-shadow: 1px 2px #595959;
+}
+
+h1{
+  text-align: center;
+}
+
+#game-board{
+  padding-top: 30px;
+}
+
+.input-box{
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+
+.start-menu{
+  text-align: center;
+}
+
+.game-play{
+  text-align: center;
+}
+
+.lose{
+  text-align: center;
+  padding-top: 20px;
+  align-items: center;
+}
+
+.win{
+  text-align: center;
+  padding-top: 20px;
+  align-items: center;
+}
+
+#flagImage{
+  height: 20px;
+}
+
+#mineImage{
+  height: 20px;
+}
