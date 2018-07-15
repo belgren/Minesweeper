@@ -1,2 +1,3 @@
 # Minesweeper
-My implementation of the Minesweeper game using JavaScript, HTML and CSS
+My implementation of Minesweeper game in JavaScript using JQuery. UI developed using HTML and CSS.
+
